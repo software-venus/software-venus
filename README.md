@@ -2,7 +2,7 @@
   <h2>Software Venus</h2>
   <br>
   <a href="mailto:contractsmart9@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="leo065409" ></a>
 </div>
 
 <br>
@@ -12,14 +12,10 @@
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-  <a href="https://sachin2815.netlify.app">
     <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
-  </a>
 </p>
 <p align="center">
-  <a href="https://sachin2815.netlify.app">
     <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
-  </a>
 </p>
 
 <br>
