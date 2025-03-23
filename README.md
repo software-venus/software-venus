@@ -23,7 +23,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=appwrite,androidstudio,dart,flutter" />
 </p>
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
