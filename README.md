@@ -12,10 +12,16 @@
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,javascript,php,cpp,cs,python,dotnet,solidity,ruby,threejs,wordpress,django,ai,cloudflare,fastapi,firebase,tailwind&perline=10"/>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,laravel,angular,nodejs,vue,next" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=appwrite,androidstudio,dart,flutter" />
 </p>
 
 <br>
