@@ -7,7 +7,7 @@
 
 <br>
  
-<p align="center">I’m a passionate software engineer, I design and build innovative solutions to solve complex problems and create impactful user experiences.dedicated learner who enjoys solving problems and trying new things. I work well both in teams and on my own, and I am always ready for new challenges. With experience in automation and troubleshooting, I also have strong skills in leading teams. I’m excited to use my abilities in creative and dynamic projects..</p>
+<p align="center">I’m a passionate software engineer, I design and build innovative solutions to solve complex problems and create impactful user experiences. I work well both in teams and on my own, and I am always ready for new challenges. With experience in automation and troubleshooting, I also have strong skills in leading teams. I’m excited to use my abilities in creative and dynamic projects..</p>
 
 ### <p align="center">My Technical Skills</p>
 
