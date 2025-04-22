@@ -33,6 +33,5 @@
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
 </p>
 
-<br>
 <h3 align='center'><i>&nbsp; Work with Optimism, Hope for the Best!</i></h3>
 
