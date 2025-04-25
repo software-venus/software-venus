@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Software Venus</h2>
+  <h2>Software Venus</h2>   
   <br>
   <a href="mailto:contractsmart9@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="leo065409" ></a>
